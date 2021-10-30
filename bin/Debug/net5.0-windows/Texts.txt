@@ -1,0 +1,8 @@
+1:We're installing a new VPN client
+1:Your pc will restart at the end of the installation
+1:Should anything go wrong (we hope it won't)...
+1:...please give the IT service desk a call
+1:It may take 1-10 minutes
+2:Installing.
+2:Installing..
+2:Installing...
